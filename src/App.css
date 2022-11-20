@@ -11572,6 +11572,20 @@ p {
   margin-right: 2cm;
   margin-top: 2.5cm;
 }
+.titulo-listado {
+  margin-top:3cm;
+}
+.table {
+  margin-left:1cm;
+  margin-right:1cm;
+  margin-top:2cm;
+}
+.boton-crear {
+  margin-top:2cm;
+  background:blue;
+  margin-left:2cm;
+
+}
 
 
 
