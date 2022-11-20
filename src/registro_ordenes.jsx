@@ -1,5 +1,6 @@
 const Registro_ordenes = () => {
     return (
+        <body>
         <form class="formulario3">
         <h1 class="titulo">Gestión de paquetes - Registro de ordenes (Recogida)</h1>
         <div class="contenedor">
@@ -62,6 +63,7 @@ const Registro_ordenes = () => {
             
         </div>
     </form >
+    </body>
         )
     }
     

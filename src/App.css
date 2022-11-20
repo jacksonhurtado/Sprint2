@@ -11388,9 +11388,12 @@ header.masthead .bg-circle-4 {
 body {
   font-size: Arial, helvetica, sans-serif;
   margin: 0;
-  background:url(/startbootstrap-one-page-wonder-gh-pages/img/background2.png) ;
+  /*background:url(/public/background2.png) ;*/
   background-size: cover;
   background-attachment: fixed;
+}
+#body-formulario2 {
+  background:url(/public/background2.png) ;
 }
 * {
   box-sizing: border-box;
@@ -11537,7 +11540,7 @@ p {
   }
 .titulo-nosotros {
   text-align: center;
-  margin-top:2cm;
+  margin-top:6cm;
   color:white;
   font-size: 60px;
 }
@@ -11561,7 +11564,7 @@ p {
   text-align: left;
   background:#0d6efd;
   color:white;
-  font-size: 20px;
+  font-size: 30px;
   margin-left: 2cm;
   margin-right: 2cm;
   margin-top: 3cm;
@@ -11586,6 +11589,9 @@ p {
   margin-left:2cm;
 
 }
-
+.formulario_listado {
+  margin-top:3cm;
+  margin:3cm;
+}
 
 

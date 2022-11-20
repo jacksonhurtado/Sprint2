@@ -1,5 +1,6 @@
 
 import './App.css';
+import './index.css';
 import Login from './login';
 import Home from './home';
 import Registro_usuarios from './registro_usuarios';

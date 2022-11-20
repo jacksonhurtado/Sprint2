@@ -1,5 +1,6 @@
 const Actualizacion_ordenes = () => {
     return (
+        <body>
         <form class="formulario4">
         <h1 class="titulo">Gestión de paquetes - Actualización de ordenes (Recogida)</h1>
         <div class="contenedor">
@@ -70,6 +71,7 @@ const Actualizacion_ordenes = () => {
             
         </div>
     </form>
+    </body>
         )
     }
     

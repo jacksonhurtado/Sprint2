@@ -1,6 +1,7 @@
 
 const Login = () => {
     return (
+        <body>
       <form class="formulario">
         <h1>Login</h1>
         <div class="contenedor">
@@ -17,7 +18,7 @@ const Login = () => {
             <p>¿No tienes cuenta?<a class="link" href="/registro_usuarios"> Registrate</a></p>
         </div>
     </form>
-
+    </body>
     )
 }
 

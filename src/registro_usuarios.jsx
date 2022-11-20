@@ -1,6 +1,7 @@
 
         const Registro_usuarios = () => {
             return (
+                <div clasName="body-formulario2">
                 <form class="formulario2">
                 <h1>Registrarse</h1>
                 <div class="contenedor">
@@ -25,6 +26,7 @@
                     <p>¿Ya tienes cuenta?<a class="link" href="/login"> Inicio sesion</a></p>
                 </div>
             </form>
+            </div>
         
             )
         }
