@@ -11,7 +11,7 @@ const Home = () => {
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item"><a class="nav-link" href="registro_usuarios">Registrarse</a></li>
                         <li class="nav-item"><a class="nav-link" href="login">Iniciar Sesión</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link" href="nosotros">Nosotros</a></li>
                     </ul>
                 </div>
             </div>
